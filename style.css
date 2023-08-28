@@ -99,4 +99,23 @@ font-family: 'Poppins', sans-serif;
     padding-top: 60px;
     padding-bottom: 20px;
 }
+/* hot deal section styles here  */
+.hot-deal{
+    max-width: 80%;
+    margin: 0px auto;
+    height: 60vh;
+    background-color: #fce9ed;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.deal-text{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
 
