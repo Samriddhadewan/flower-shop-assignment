@@ -138,7 +138,6 @@ font-family: 'Poppins', sans-serif;
     background-repeat: no-repeat;
     margin-top: 100px;
     text-align: center;
-
 }
 .latest-detail-text{
     padding-top: 60px;
@@ -148,4 +147,14 @@ font-family: 'Poppins', sans-serif;
     width: 600px;
     border: none;
     margin-top: 30px;
+}
+/* owner section starts here  */
+.owner-section{
+    max-width: 80%;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: linear-gradient(to right, #ff6e7f, #bfe9ff);
+    margin-top: 150px;
 }
