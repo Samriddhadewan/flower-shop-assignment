@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'EB Garamond', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+/* some short codes */
+.button{
+    background-color: #E55473;
+    padding: 12px 20px 12px 20px;
+    border: none;
+    border-radius: 6px;
+    color: aliceblue;
+    font-size: medium;
+}
+
+
+/* header section styles here  */
+.banner-container{
+    height: 70vh;
+    width: 100%;
+    background-color:#fce9ed;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.banner-title{
+    font-size: 60px;
+    color: #272727;
+}
+.banner-paragraph{
+    color: #999999;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.banner-img{
+    width: 500px;
+}
