@@ -128,5 +128,24 @@ font-family: 'Poppins', sans-serif;
     justify-content: space-around;
     margin-top: 60px;
 }
+/* latest details secrions styles starts here  */
+.latest-details{
+    max-width: 80%;
+    margin: 0px auto;
+    height: 40vh;
+    background-image: url("./background/Rectangle\ 9.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    text-align: center;
 
-
+}
+.latest-detail-text{
+    padding-top: 60px;
+}
+.email-box{
+    height: 50px;
+    width: 600px;
+    border: none;
+    margin-top: 30px;
+}
