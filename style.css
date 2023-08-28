@@ -86,3 +86,17 @@ font-family: 'Poppins', sans-serif;
     font-weight: 500;
     color: #272727;
 }
+/* service section styles here */
+.service{
+    max-width: 80%;
+    margin: 0px auto;
+    height: 150px;
+    background-color: #f2f2f2;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
