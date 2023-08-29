@@ -158,3 +158,23 @@ font-family: 'Poppins', sans-serif;
     background-image: linear-gradient(to right, #ff6e7f, #bfe9ff);
     margin-top: 150px;
 }
+
+/* footer styles here  */
+.footer-section{
+    height: 40vh;
+    width: 100%;
+    background-color: #111010;
+    margin-top: 50px;
+    text-align: center;
+}
+.footer-texts{
+    padding-top: 80px;
+}
+.footer-text{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.copy-right-text{
+    color: #999999;
+    padding-top: 50px;
+}
